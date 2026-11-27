@@ -1,0 +1,1 @@
+{"file":"src/ui/features/probe.tsx","snippet":"export const P = () => <button>ok</button>;","expect":1}

@@ -1,0 +1,1 @@
+{"file":"internal/app/probe.go","snippet":"func f() { os.WriteFile(\"a\", nil, 0o644) }","expect":1}

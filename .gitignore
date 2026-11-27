@@ -1,0 +1,4 @@
+bin/
+*.exe
+e2e-*.txt
+bin/

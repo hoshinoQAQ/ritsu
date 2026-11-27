@@ -1,0 +1,1 @@
+{"file":"src/ui/features/probe.tsx","snippet":"export const C = () => <i className=\"bg-[#330745]\" />;","expect":1}

@@ -1,0 +1,19 @@
+order: [contract, fsx, execx, clockx, logx, config, engine, ownership, ratchet, lint, plan, template, vcs, app, surface]
+paths:
+  contract: [internal/contract/**]
+  fsx: [internal/fsx/**]
+  execx: [internal/execx/**]
+  clockx: [internal/clockx/**]
+  logx: [internal/logx/**]
+  config: [internal/config/**]
+  engine: [internal/engine/**]
+  ownership: [internal/ownership/**]
+  ratchet: [internal/ratchet/**]
+  lint: [internal/lint/**]
+  plan: [internal/plan/**]
+  template: [internal/template/**]
+  vcs: [internal/vcs/**]
+  surface: [internal/surface/**]
+  app: [internal/app/**]
+graph:
+  min_edges: 1

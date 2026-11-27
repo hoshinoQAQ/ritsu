@@ -1,0 +1,1 @@
+{"file":"src/types/probe.ts","snippet":"export const S = z.object({ userId: z.string() });","expect":1}

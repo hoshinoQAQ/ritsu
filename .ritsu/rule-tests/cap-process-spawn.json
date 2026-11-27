@@ -1,0 +1,1 @@
+{"file":"internal/app/probe.go","snippet":"func g() { exec.Command(\"git\") }","expect":1}

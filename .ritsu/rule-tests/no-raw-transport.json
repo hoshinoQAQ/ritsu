@@ -1,0 +1,1 @@
+{"file":"src/ui/features/probe.ts","snippet":"export const load = () => fetch('/api/x');","expect":1}

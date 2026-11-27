@@ -1,0 +1,1 @@
+{"file":"src/service/probe.ts","snippet":"export const q = 'SELECT a FROM t';","expect":1}
